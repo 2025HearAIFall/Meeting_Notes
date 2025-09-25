@@ -16,4 +16,9 @@
 ## 📂 2학기 회의록 (2025 Fall)
 이 저장소에는 2학기(2025년 9월 ~ 12월) 회의 기록이 정리됩니다.
 
-- [0925 회의록](https://github.com/2025HearAIFall/Meeting_Notes/blob/main/0926_%ED%9A%8C%EC%9D%98%EB%A1%9D.md)
+---
+
+### 2025.09.25.
+- 회의 주제: 이번주 진행 계획 및 2학기 전체 계획
+- 📌 comment: 팀원 변동(문석영 합류), 역할 재분배 및 최종 목표 재확인
+- 🔗 [0925 회의록](https://github.com/2025HearAIFall/Meeting_Notes/blob/main/0926_%ED%9A%8C%EC%9D%98%EB%A1%9D.md)
