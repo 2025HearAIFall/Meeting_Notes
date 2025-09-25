@@ -1,4 +1,4 @@
-# HearAI Meeting Notes (2025 Fall)
+# HearAI Meeting Notes (2025 2학기)
 
 📝 2025년 가을학기 HearAI 프로젝트 회의록 저장소  
 
