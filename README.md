@@ -16,4 +16,4 @@
 ## 📂 2학기 회의록 (2025 Fall)
 이 저장소에는 2학기(2025년 9월 ~ 12월) 회의 기록이 정리됩니다.
 
-- [0926 회의록](https://github.com/2025HearAIFall/Meeting_Notes/blob/main/0926_%ED%9A%8C%EC%9D%98%EB%A1%9D.md)
+- [0925 회의록](https://github.com/2025HearAIFall/Meeting_Notes/blob/main/0926_%ED%9A%8C%EC%9D%98%EB%A1%9D.md)
