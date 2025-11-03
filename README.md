@@ -33,6 +33,12 @@
 > 📝 Summary: 감정 분석 모델 테스트 완료, 문맥 번역 학습 문제 해결 중, 수어 번역 모델 60% 성능 달성  
 > 🔗 [1009 회의록](https://github.com/2025HearAIFall/Meeting_Notes/blob/main/1009_%ED%9A%8C%EC%9D%98%EB%A1%9D.md)
 
+### 2025.10.23.
+> 회의 주제: 개발 진행 상황 공유 및 모델 개선 논의  
+> 📝 Summary: 각 모델의 정확도·용량 문제 해결 중, 통합 파이프라인과 웹 개발 일정은 다음 주로 연기  
+> 🔗 [1123 회의록](https://github.com/2025HearAIFall/Meeting_Notes/blob/main/1023_%ED%9A%8C%EC%9D%98%EB%A1%9D.md)
+
+
 ### 2025.10.16.
 > 회의 주제: 개발 계획 및 팀원별 활동 계획  
 > 📝 Summary: 얼굴 표정 기반 감정 분석 시스템 제작 예정, 웹 기반으로 개발 방향 변경, 세 모델 통합 파이프라인 구축 예정  
