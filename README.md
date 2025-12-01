@@ -52,3 +52,8 @@
 > 회의 주제: 지난주 진행사항 점검 및 이번주 개발 계획  
 > 📝 Summary: 세 모델 최종 완성 및 오류 수정 완료, 통합 모델 HandBridge 제작 및 시연 영상 준비 예정  
 > 🔗 [1104 회의록](https://github.com/2025HearAIFall/Meeting_Notes/blob/main/1104_%ED%9A%8C%EC%9D%98%EB%A1%9D.md)
+
+### 2025.11.12.
+> 회의 주제: Fairday(졸업작품전) 발표 진행  
+> 📝 Summary: 졸업작품전 Fairday에서 프로젝트 발표 진행, 팀 HearAI 장려상 수상  
+
