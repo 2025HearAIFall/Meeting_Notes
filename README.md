@@ -55,7 +55,7 @@
 
 ### 2025.11.12.
 > 회의 주제: Fairday(졸업작품전) 발표 진행  
-> 📝 Summary: <span style="color:black; font-weight:bold;">🏆 졸업작품전 Fairday에서 프로젝트 발표 진행, 팀 HearAI 장려상 수상</span> 
+> **Summary:** **졸업작품전 Fairday에서 프로젝트 발표 진행, 팀 HearAI 🏆장려상🏆 수상**
 
 ### 2025.11.20.
 > 회의 주제: Fairday 발표 이후 모델 및 UI 개선 계획  
